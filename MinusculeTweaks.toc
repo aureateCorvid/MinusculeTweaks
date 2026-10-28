@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Minuscule Tweaks
+## Notes: Collection of small UI tweaks (chat edit, class colors, status text, spec tooltip) with individual toggles.
+## Author: Grok
+## Version: 1.0
+## SavedVariables: MinusculeTweaksDB
+
+MinusculeTweaks.lua
